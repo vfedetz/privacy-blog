@@ -43,6 +43,7 @@ Take steps to opt-out of data broker services
     - [ ] Use lists of people search and data broker websites to manually opt-out one by one (this will take a long time, chip away at)
         - [ ] https://www.privacyguides.org/en/data-broker-removals/#manual-opt-outs-free
         - [ ] https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+        - [ ] https://dashboard.operationprivacy.com/category/614938e95db6810016b7df55 (requires free account)
     - [ ] Use a paid service to perform opt outs
         - [ ] [Privacy Guides recommends EasyOptOuts](https://www.privacyguides.org/en/data-broker-removals/#easyoptouts-paid)
 
