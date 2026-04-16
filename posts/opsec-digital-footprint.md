@@ -1,6 +1,10 @@
 # OPSEC Playbook for Cleaning Up Your Digital Footprint
 
+<br>
+
 [Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/) is referenced heavily here. I think they have a logical method of breaking down this complex topic into easy-to-understand sections on their website. They also continuously curate trusted lists of recommended apps and best practices without any outside influence or sponsorships. They have a forum as well with some good discussions on privacy.
+
+<br>
 
 * * *
 
@@ -11,7 +15,10 @@ I have ranked each section with 1-3 stars based on how much impact I think each 
 - **Public Exposure** - Limiting the information about you that is accessible online
 - **Anonymity** - Shielding your online activity from your real identity
 
+<br>
+
 * * *
+
 
 ## Public Data Removal (⭐⭐⭐)
 
@@ -47,6 +54,8 @@ Take steps to opt-out of data broker services
     - [ ] Use a paid service to perform opt outs
         - [ ] [Privacy Guides recommends EasyOptOuts](https://www.privacyguides.org/en/data-broker-removals/#easyoptouts-paid)
 
+<br>
+
 * * *
 
 ## Account Deletion (⭐⭐⭐)
@@ -69,6 +78,8 @@ For each account...
 - [ ] Request deletion / delete the account
     - [ ] Helpful information on deleting accounts: https://justdeleteme.xyz/
 - [ ] If you cannot delete it, follow hardening steps under "Account Hardening"
+
+<br>
 
 * * *
 
@@ -106,6 +117,8 @@ They can also use that access to compromise additional accounts and lead to info
         - [ ] Opt out of any data sharing and collection
         - [ ] Enable all available privacy settings
 
+<br>
+
 * * *
 
 ## Password Managers (⭐⭐⭐)
@@ -123,9 +136,11 @@ Password managers are essential to storing and remembering all of the unique inf
 
 ### Recommended Software/Service:
 
-- Bitwarden (free)
-- Proton (paid software suite)
+- [Bitwarden](https://bitwarden.com/) (free)
+- [Proton](https://proton.me/) (paid software suite)
 - https://www.privacyguides.org/en/passwords/
+
+<br>
 
 * * *
 
@@ -144,9 +159,11 @@ Can optionally disable individual email aliases if you start receiving spam
 
 ### Recommended Software/Service:
 
-- Addy.io (paid)
-- Proton (paid software suite)
+- [Addy.io](https://addy.io/) (paid)
+- [Proton](https://proton.me/) (paid software suite)
 - https://www.privacyguides.org/en/email-aliasing/
+
+<br>
 
 * * *
 
@@ -160,6 +177,8 @@ Don't bother doing this when sharing on secure messaging channels to trusted con
 
 - Haven't done this much myself
 - https://www.privacyguides.org/en/data-redaction/
+
+<br>
 
 * * *
 
@@ -187,6 +206,8 @@ Certain websites will block you when behind a VPN
 - Mullvad
 - https://www.privacyguides.org/en/vpn/
 
+<br>
+
 * * *
 
 ## Real-Time Communication (⭐)
@@ -200,8 +221,10 @@ Most messaging platforms send your messages un-encrypted or store the encryption
 
 ### Recommended Software/Service:
 
-- Signal
+- [Signal](https://signal.org/)
 - https://www.privacyguides.org/en/real-time-communication/
+
+<br>
 
 * * *
 
