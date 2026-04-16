@@ -102,7 +102,7 @@ They can also use that access to compromise additional accounts and lead to info
     
 - [ ] Check privacy settings:
     
-    - [ ] These settings vary based on the service, and the settings change all the time and sometimes opt you in by default. Each account requires its own privacy audit. But Generally:
+    - [ ] These settings vary based on the service, and the settings change all the time and sometimes opt you in by default. Each account deserves its own privacy audit, but generally:
         - [ ] Opt out of any data sharing and collection
         - [ ] Enable all available privacy settings
 
