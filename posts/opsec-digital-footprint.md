@@ -6,7 +6,7 @@
 
 ## ⭐My Star Ranking System⭐
 
-I have ranked each section with 1-3 stars based on how much impact I think each step will have towards the stated goal(s) of:
+I have ranked each section with 1-3 stars based on how much impact I think each step will have towards the assumed goal(s) of:
 
 - **Public Exposure** - Limiting the information about you that is accessible online
 - **Anonymity** - Shielding your online activity from your real identity
