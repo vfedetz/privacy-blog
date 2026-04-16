@@ -53,7 +53,7 @@ Take steps to opt-out of data broker services
         - [ ] https://dashboard.operationprivacy.com/category/614938e95db6810016b7df55 (requires free account)
     - [ ] Use a paid service to perform opt outs
         - [ ] [Privacy Guides recommends EasyOptOuts](https://www.privacyguides.org/en/data-broker-removals/#easyoptouts-paid)
-- [ ] Attempt to remove Wayback Machine results
+- [ ] Attempt to remove Wayback Machine results by claiming GDPR rights
     - [ ] https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/ 
 
 <br>
